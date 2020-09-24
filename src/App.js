@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-function Food({ name, picture }) {
+function Food({ name, picture, rating }) {
   return (
     <div>
       <h2>This is {name} </h2>
