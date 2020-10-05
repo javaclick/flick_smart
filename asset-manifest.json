@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/javaclick/flick_smart/static/css/main.cb64008d.chunk.css",
-    "main.js": "/javaclick/flick_smart/static/js/main.befb2eb9.chunk.js",
-    "main.js.map": "/javaclick/flick_smart/static/js/main.befb2eb9.chunk.js.map",
-    "runtime-main.js": "/javaclick/flick_smart/static/js/runtime-main.5e869b3d.js",
-    "runtime-main.js.map": "/javaclick/flick_smart/static/js/runtime-main.5e869b3d.js.map",
-    "static/js/2.f6192679.chunk.js": "/javaclick/flick_smart/static/js/2.f6192679.chunk.js",
-    "static/js/2.f6192679.chunk.js.map": "/javaclick/flick_smart/static/js/2.f6192679.chunk.js.map",
-    "index.html": "/javaclick/flick_smart/index.html",
-    "precache-manifest.f0cde316cd032c204efd303e72f8bef4.js": "/javaclick/flick_smart/precache-manifest.f0cde316cd032c204efd303e72f8bef4.js",
-    "service-worker.js": "/javaclick/flick_smart/service-worker.js",
-    "static/css/main.cb64008d.chunk.css.map": "/javaclick/flick_smart/static/css/main.cb64008d.chunk.css.map",
-    "static/js/2.f6192679.chunk.js.LICENSE.txt": "/javaclick/flick_smart/static/js/2.f6192679.chunk.js.LICENSE.txt"
+    "main.css": "/flick_smart/static/css/main.cb64008d.chunk.css",
+    "main.js": "/flick_smart/static/js/main.befb2eb9.chunk.js",
+    "main.js.map": "/flick_smart/static/js/main.befb2eb9.chunk.js.map",
+    "runtime-main.js": "/flick_smart/static/js/runtime-main.bd44428f.js",
+    "runtime-main.js.map": "/flick_smart/static/js/runtime-main.bd44428f.js.map",
+    "static/js/2.f6192679.chunk.js": "/flick_smart/static/js/2.f6192679.chunk.js",
+    "static/js/2.f6192679.chunk.js.map": "/flick_smart/static/js/2.f6192679.chunk.js.map",
+    "index.html": "/flick_smart/index.html",
+    "precache-manifest.b2c464a01d2a80bf0e73ed7d657c8bb5.js": "/flick_smart/precache-manifest.b2c464a01d2a80bf0e73ed7d657c8bb5.js",
+    "service-worker.js": "/flick_smart/service-worker.js",
+    "static/css/main.cb64008d.chunk.css.map": "/flick_smart/static/css/main.cb64008d.chunk.css.map",
+    "static/js/2.f6192679.chunk.js.LICENSE.txt": "/flick_smart/static/js/2.f6192679.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5e869b3d.js",
+    "static/js/runtime-main.bd44428f.js",
     "static/js/2.f6192679.chunk.js",
     "static/css/main.cb64008d.chunk.css",
     "static/js/main.befb2eb9.chunk.js"
